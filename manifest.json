@@ -1,0 +1,16 @@
+{
+    "name": "Aplikasi PWA Sederhana",
+    "short_name": "MyPWA",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "description": "Contoh aplikasi PWA untuk tugas Pemrograman Web.",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
